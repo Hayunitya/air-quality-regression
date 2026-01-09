@@ -1,4 +1,4 @@
-#Air Quality Prediction Using Linear Regression (SDG 13 - Climate Action)
+# Air Quality Prediction Using Linear Regression (SDG 13 - Climate Action)
 
 Proyek ini merupakan tugas mata kuliah **Kecerdasan Buatan** yang bertujuan untuk memprediksi kadar **Karbon Monoksida (CO)** berdasarkan parameter lingkungan menggunakan algoritma **Linear Regression** yang dibangun dari nol (from scratch) tanpa menggunakan library Machine Learning seperti scikit-learn.
 
