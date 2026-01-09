@@ -16,7 +16,7 @@ Kualitas udara merupakan indikator krusial dalam kesehatan masyarakat dan peruba
 * **Sumber**: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Air+Quality)
 * **Periode**: Maret 2004 - April 2005
 * **Jumlah Data**: ~9,358 entri
-* **Fitur**: Suhu (T), Kelembaban (RH/AH), NOx, NO2, O3, dan sensor kimia lainnya.
+* **Fitur**: PT08.S1(CO), NMHC(GT), C6H6(GT), PT08.S2(NMHC), NOx(GT), PT08.S3(NOx), NO2(GT), PT08.S4(NO2), PT08.S5(O3), T, RH, AH.
 
 ## Metodologi
 1.  **Exploratory Data Analysis (EDA)**: Pembersihan data dan penanganan missing values.
