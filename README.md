@@ -32,8 +32,3 @@ Kualitas udara merupakan indikator krusial dalam kesehatan masyarakat dan peruba
 ## Video Presentasi
 Penjelasan lengkap pada video berikut:
 👉 **[Link Video Presentasi YouTube](https://www.youtube.com/watch?v=cgMChROV-8A)**
-
----
-**Disusun Oleh:**
-- Hayunitya Edadwi Pratita (23/518670/TK/57134)  
-- Desi D Simamora (23/514990/TK/56564)  
